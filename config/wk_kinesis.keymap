@@ -45,9 +45,9 @@
             display-name = "Arrows";
             bindings = <
 &trans  &trans  &trans    &trans        &trans     &trans                                                      &trans  &trans  &trans  &trans   &trans   &trans
-&trans  &trans  &kp F14   &kp UP_ARROW  &trans     &trans                                                      &trans  &trans  &trans  &trans   &trans   &trans
+&trans  &kp F14  &kp KP_N7  &kp UP_ARROW  &kp KP_N9  &trans                                                      &trans  &trans  &trans  &trans   &trans   &trans
 &trans  &kp F13  &kp LEFT  &kp DOWN      &kp RIGHT  &trans          &trans  &trans      &trans  &trans          &trans  &trans  &trans  &trans   &trans   &trans
-&trans  &trans  &trans    &trans        &trans     &trans                  &trans      &trans                  &trans  &trans  &trans  &trans   &trans   &trans
+&trans  &trans  &kp KP_N1  &trans      &kp KP_N3  &trans                  &trans      &trans                  &trans  &trans  &trans  &trans   &trans   &trans
         &trans  &trans    &trans        &trans             &trans  &trans  &trans      &trans  &trans  &trans          &trans  &tog 2  &trans   &trans
             >;
         };
